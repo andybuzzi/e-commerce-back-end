@@ -4,7 +4,7 @@
 
 In this project (e-commerce back end), a back end for e-commerce websites was built using Express.js API and configured to use Sequelize to interact with a MySQL database. The database contains information for tags, products, and categories of products.
 
-Please [click here](https://www.youtube.com/watch?v=Z93fdprTjbw) to be directed to a walkthrough video of the application.
+Please [click here](https://www.youtube.com/watch?v=-JSpyEDTOcc) to be directed to a walkthrough video of the application.
 
 ## Installation
 
